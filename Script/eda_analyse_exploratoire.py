@@ -1,7 +1,7 @@
 """
 ANALYSE EXPLORATOIRE DES DONNÉES (EDA)
 Test Technique - TOGO Datalab
-Auteur: Candidat Data Analyst
+Auteur: KLUTSE Amatré Cynthia-Ornella
 Date: Janvier 2026
 
 Objectif: Comprendre la structure, la qualité et la distribution des données
