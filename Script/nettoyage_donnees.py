@@ -1,8 +1,7 @@
 """
 NETTOYAGE ET PRÉPARATION DES DONNÉES
 Test Technique - TOGO Datalab
-Auteur: Candidat Data Analyst
-
+Auteur: KLUTSE Amatré Cynthia-Ornella
 Objectif: Produire un jeu de données propre, cohérent et exploitable
 """
 
